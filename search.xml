@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hello World</title>
+    <url>/posts/4a17b156/</url>
+    <content><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a></h2><p><em><strong>小站开通了，常来逛逛吧…….</strong></em><br><em><strong>std:cout&gt;&gt;”hello world”std:enl</strong></em></p>
+]]></content>
+  </entry>
+  <entry>
     <title>hexo + github pages 打造你自己的博客</title>
     <url>/posts/c5404504/</url>
-    <content><![CDATA[
+    <content><![CDATA[<span id="more"></span>
+
         <h3 id="hexo"   >
           <a href="#hexo" class="heading-link"><i class="fas fa-link"></i></a><a href="#hexo" class="headerlink" title="hexo"></a>hexo</h3>
       
@@ -227,11 +234,5 @@
       <tags>
         <tag>hexo</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/posts/4a17b156/</url>
-    <content><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a></h2><p><em><strong>小站开通了，常来逛逛吧…….</strong></em><br><em><strong>std:cout&gt;&gt;”hello world”std:enl</strong></em></p>
-]]></content>
   </entry>
 </search>
