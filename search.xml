@@ -9,11 +9,12 @@
   <entry>
     <title>hexo + github pages 打造你自己的博客</title>
     <url>/posts/c5404504/</url>
-    <content><![CDATA[<span id="more"></span>
-
+    <content><![CDATA[
         <h3 id="hexo"   >
           <a href="#hexo" class="heading-link"><i class="fas fa-link"></i></a><a href="#hexo" class="headerlink" title="hexo"></a>hexo</h3>
-      
+      <p>Hexo 是一个基于nodejs 的静态博客网站生成器，作者是来自台湾的 Tommy Chen</p>
+<span id="more"></span>
+
         <h4 id="hexo-安装"   >
           <a href="#hexo-安装" class="heading-link"><i class="fas fa-link"></i></a><a href="#hexo-安装" class="headerlink" title="hexo 安装"></a>hexo 安装</h4>
       <p>创建 github pages 和创建普通的 github 仓库没太大区别（记住仓库名称是 username.github.io 就行了），这里就不在赘述了。以下的安装基于 mac，其实都差不多，现在的操作系统都提供了良好的包管理工具用于简化软件的安装。</p>
