@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/posts/4a17b156/</url>
-    <content><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a></h2><p><em><strong>小站开通了，常来逛逛吧…….</strong></em><br><em><strong>std:cout&gt;&gt;”hello world”&gt;&gt;std:endl</strong></em></p>
-]]></content>
-  </entry>
-  <entry>
     <title>hexo + github pages 打造你自己的博客</title>
     <url>/posts/c5404504/</url>
     <content><![CDATA[<h3 id="hexo"><a href="#hexo" class="headerlink" title="hexo"></a>hexo</h3><p>Hexo 是一个基于nodejs 的静态博客网站生成器，作者是来自台湾的 Tommy Chen</p>
@@ -127,5 +121,11 @@
       <tags>
         <tag>hexo</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/posts/4a17b156/</url>
+    <content><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a></h2><p><em><strong>小站开通了，常来逛逛吧…….</strong></em><br><em><strong>std:cout&gt;&gt;”hello world”&gt;&gt;std:endl</strong></em></p>
+]]></content>
   </entry>
 </search>
