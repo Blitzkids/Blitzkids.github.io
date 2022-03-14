@@ -4200,7 +4200,7 @@ h1.page-title + .tag-cloud-list {
   transform: rotate(360deg);
 }
 #vcomment textarea {
-  background: url("/image/2.jpg") 100% 100% no-repeat;
+  background: url("/image/comments.png") 100% 100% no-repeat;
 }
 #vcomment textarea:focus {
   background-image: none;
